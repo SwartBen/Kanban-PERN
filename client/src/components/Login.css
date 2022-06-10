@@ -1,0 +1,28 @@
+.login {
+    box-shadow: 0 0 10px lightgray;
+    padding: 70px;
+    width: 450px;
+    max-width: 450px;
+    max-height: 475px;    
+    font-weight: bold;
+    color: #1266F1;
+    border-radius: 5px;
+}
+.login-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login span {
+    font-weight: normal;
+    color: black
+}
+
+.title {
+    font-size: 20px;
+}
+
+.login-form {
+    padding: 50px 0px 10px 0px;
+}

@@ -1,0 +1,20 @@
+.card {
+    padding: 8px 8px 8px 8px;
+    margin: 0 0 8px 0;
+    min-height: 50px;
+    border-radius: 10px;
+}
+
+.content {
+    font-weight: bold;
+}
+
+.date, .tags {
+    padding: 2px;
+    background-color: lightgray;
+    max-width: 60px;
+    font-size: 8px;
+    text-align: center;
+    border-radius: 5px;
+    min-height: 16px;
+}
